@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    padding-top: 50;
+    padding-bottom: 50;
+    background-color: aquamarine;
+    border: 100;
+    color :brown;
+}
+h2{
+    text-align: center;
+    padding-top: 50;
+    padding-bottom: 50;
+    background-color:lightpink;
+    border: 100;
+    color:forestgreen;
+    font-size: 50pt;
+}
+body{
+    background-color:hotpink;
+  
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.container {
+    height: 50px;
+    position:relative;
+    border: 3px solid crimson;
+  }
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
